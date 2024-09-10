@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/MarcFriedhoff/Mfri_scaffoldingProject
   gitUsername: MarcFriedhoff
   gitBranch: main
+- name: PetstoreClient20
+  gitServerName: mfri_git
+  gitUrl: https://github.com/MarcFriedhoff
+  gitUsername: MarcFriedhoff
+  gitBranch: master
