@@ -12,3 +12,8 @@ packages:
   gitUrl: https://github.com/MarcFriedhoff
   gitUsername: MarcFriedhoff
   gitBranch: master
+- name: PetstoreClient7
+  gitServerName: mfri_git
+  gitUrl: https://github.com/MarcFriedhoff
+  gitUsername: MarcFriedhoff
+  gitBranch: master
