@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Mfri_scaffoldingProject
+  gitServerName: mfri_git
+  gitUrl: https://github.com/MarcFriedhoff/Mfri_scaffoldingProject
+  gitUsername: MarcFriedhoff
+  gitBranch: main
